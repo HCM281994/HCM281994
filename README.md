@@ -12,5 +12,5 @@ Mi meta actual es especializarme en la robótica humanoide, integrando conocimie
 * **Herramientas:** Ingeniería inversa de hardware, Soldadura avanzada, Automatización Industrial.
 
 ## 📂 Proyectos Destacados
-1. [**Proyecto: Duplicador de Llaves de Auto**](./01-duplicador-llaves/) - Implementación de sistemas de seguridad automotriz para Chevrolet Sail 2019.
+1. [**Proyecto: Duplicador de Llaves de Auto**](./01-duplicador-llaves/ARQUITECTURA.md) - Documentación técnica del sistema para Chevrolet Sail 2019.
 2. [**Proyecto: Hack Lydsto G1**](./02-hack-lydsto-g1/) - Ingeniería inversa y toma de control local de un robot aspirador del ecosistema Zhimi/Xiaomi.

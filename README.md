@@ -1,16 +1,16 @@
-## Hi there 👋
+# Portafolio de Ingeniería y Robótica - Hernán Alexis
 
-<!--
-**HCM281994/HCM281994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi repositorio de proyectos. Soy Ingeniero en Electricidad y Automatización Industrial, enfocado en el desarrollo de soluciones de robótica, ingeniería inversa y sistemas embebidos.
 
-Here are some ideas to get you started:
+## 🚀 Objetivo Profesional
+Mi meta actual es especializarme en la robótica humanoide, integrando conocimientos de hardware industrial con software avanzado (ROS2, Python, C++).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+* **OS:** Ubuntu Linux (Dual Boot)
+* **Hardware:** Arduino, ESP32, Protocolos Seriales (UART/I2C)
+* **Software:** Python, C++, ROS2 (en formación)
+* **Herramientas:** Ingeniería inversa de hardware, Soldadura avanzada, Automatización Industrial.
+
+## 📂 Proyectos Destacados
+1. [**Proyecto: Duplicador de Llaves de Auto**](./01-duplicador-llaves/) - Implementación de sistemas de seguridad automotriz para Chevrolet Sail 2019.
+2. [**Proyecto: Hack Lydsto G1**](./02-hack-lydsto-g1/) - Ingeniería inversa y toma de control local de un robot aspirador del ecosistema Zhimi/Xiaomi.
